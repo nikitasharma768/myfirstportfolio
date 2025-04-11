@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://{nikitasharma768}.github.io/{myfirstportfolio}",
+  "homepage": "http://nikitasharma768.github.io/myfirstportfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{nikitasharma768}.github.io/{myfirstportfolio}'",
+    "build-gh": "parcel build --public-url 'https://nikitasharma768.github.io/myfirstportfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
