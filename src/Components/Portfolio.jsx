@@ -20,7 +20,6 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/design-desk.jpeg";
-
 const imageAltText = "desktop with books and laptop";
 
 /**
